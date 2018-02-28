@@ -15,8 +15,8 @@ let i=i+1
 done
 }
 
-hey i m trying
-
+#hey i m trying
+#please insert # before something write in bash
 flag=0;
 num=$1
 isprime
