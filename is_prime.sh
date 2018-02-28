@@ -15,6 +15,8 @@ let i=i+1
 done
 }
 
+hey i m trying
+
 flag=0;
 num=$1
 isprime
