@@ -17,6 +17,7 @@ done
 
 #hey i m trying
 #please insert # before something write in bash
+#ok
 flag=0;
 num=$1
 isprime
